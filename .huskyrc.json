@@ -1,0 +1,5 @@
+{
+    "hosky": {
+        "pre-commit": "lint-staged"
+    }
+}
